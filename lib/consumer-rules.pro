@@ -1,0 +1,4 @@
+-keep public class * implements com.thomas.frame.mvp.IBaseMvpModel
+-keep public class * implements com.thomas.frame.mvp.IBaseMvpView
+-keep public class * extends com.thomas.frame.mvp.BaseMvpPresenter
+-keep public class * implements com.thomas.frame.component.ModuleConfig
